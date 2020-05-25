@@ -59,6 +59,7 @@ Step 2 - Download the npm packages used in the project with the command: `npm` ,
 Step 3 - Start the server with the command: `npx dev:server`, if you prefer yarn run `yarn dev:server`;
 
 - Node Server is required for both the frontend and the mobile.
+- it is necessary to have a postgres database with the name `gobarber`.
 
 <br />
 <br />
