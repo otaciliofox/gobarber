@@ -78,20 +78,20 @@ Step 3 - Start the application with the command: `npm run start`, if you prefer 
 <br />
 
 
-[//]: # **📱 Mobile (React Native)**
+[//]: # ( **📱 Mobile (React Native)** )
 
-[//]: # <br />
+[//]: # (<br />)
 
-[//]: # Step 1 - Access our application's mobile folder with the command: `cd mobile`;
+[//]: # (Step 1 - Access our application's mobile folder with the command: `cd mobile`;)
 
-[//]: # Step 2 - Download the npm packages used in the project with the command: `npm` , if you prefer yarn execute `yarn`;
+[//]: # (Step 2 - Download the npm packages used in the project with the command: `npm` , if you prefer yarn execute `yarn`;)
 
-[//]: # Step 3 - Start the application with the command: `npm run start`, if you prefer yarn run `yarn start`;
+[//]: # (Step 3 - Start the application with the command: `npm run start`, if you prefer yarn run `yarn start`;)
 
 
-<br />
-<br /> 
--->
+[//]: # (<br />)
+[//]: # (<br />)
+
 
 ## :memo: License
 
