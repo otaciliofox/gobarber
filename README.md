@@ -78,7 +78,7 @@ Step 3 - Start the application with the command: `npm run start`, if you prefer 
 <br />
 
 
-[//]: # ( **📱 Mobile (React Native)** )
+[//]: # (📱 Mobile (React Native) )
 
 [//]: # (<br />)
 
