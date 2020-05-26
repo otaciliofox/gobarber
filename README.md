@@ -21,8 +21,8 @@
 </p>
 
 <div>
-     <img src="./img/page1.png" alt="Login screenshot" width="440">
-     <img src="./img/page2.png" alt="Cadastro screenshot" width="440">
+     <img src="./img/page1.png" alt="Login screenshot" width="880">
+     <img src="./img/page2.png" alt="Cadastro screenshot" width="880">
 </div>
 
 <br />
