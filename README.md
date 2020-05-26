@@ -21,7 +21,8 @@
 </p>
 
 <div>
-     <img src="./img/page.jpeg" alt="login screenshot" width="880">
+     <img src="./img/page1.png" alt="Login screenshot" width="440">
+     <img src="./img/page2.png" alt="Cadastro screenshot" width="440">
 </div>
 
 <br />
@@ -34,7 +35,6 @@ This app features all the latest tools and practices in mobile development!
 <br />
 <br />
 
-
 - [TypeScript](https://www.typescriptlang.org/)
 - [Node.js](https://nodejs.org/)
 - [React](https://reactjs.org)
@@ -42,7 +42,6 @@ This app features all the latest tools and practices in mobile development!
 - [Postgres SQL](https://www.postgresql.org/)
 - [Mongo DB](https://www.mongodb.com/)
 - [TypeORM](https://typeorm.io/)
-
 
 ## 📢 How to use
 
@@ -77,21 +76,14 @@ Step 3 - Start the application with the command: `npm run start`, if you prefer 
 <br />
 <br />
 
-
 <!-- **📱 Mobile (React Native)** ) -->
 
-[//]: # (<br />)
+[//]: # "<br />"
+[//]: # "Step 1 - Access our application's mobile folder with the command: `cd mobile`;"
+[//]: # "Step 2 - Download the npm packages used in the project with the command: `npm` , if you prefer yarn execute `yarn`;"
 
-[//]: # (Step 1 - Access our application's mobile folder with the command: `cd mobile`;)
-
-[//]: # (Step 2 - Download the npm packages used in the project with the command: `npm` , if you prefer yarn execute `yarn`;)
-
-[//]: # (Step 3 - Start the application with the command: `npm run start`, if you prefer yarn run `yarn start`;)
-
-
-[//]: # (<br />)
-[//]: # (<br />)
-
+<br />
+<br />
 
 ## :memo: License
 
@@ -99,4 +91,5 @@ Step 3 - Start the application with the command: `npm run start`, if you prefer 
 This project is licensed under the MIT License - see the details in <a href="https://opensource.org/licenses/MIT">page</a>.
 
 ---
+
 Make with :purple_heart:
