@@ -35,13 +35,14 @@ This app features all the latest tools and practices in mobile development!
 <br />
 <br />
 
-- [TypeScript](https://www.typescriptlang.org/)
-- [Node.js](https://nodejs.org/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
+- [Node.js](https://nodejs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [Postgres SQL](https://www.postgresql.org/)
 - [Mongo DB](https://www.mongodb.com/)
 - [TypeORM](https://typeorm.io/)
+- [JSON Web Tokens](hhttps://jwt.io/)
 
 ## 📢 How to use
 
