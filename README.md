@@ -1,5 +1,5 @@
 <h1 align="center">
-     <img src="./img/logo.svg" alt="GoBarber logo" width="400">
+     <img src="./github/logo.svg" alt="GoBarber logo" width="400">
 </h1>
 
 <h3 align="center">
@@ -21,8 +21,8 @@
 </p>
 
 <div>
-     <img src="./img/page1.png" alt="Login screenshot" width="880">
-     <img src="./img/page2.png" alt="Cadastro screenshot" width="880">
+     <img src="./github/page1.png" alt="Login screenshot" width="880">
+     <img src="./github/page2.png" alt="Cadastro screenshot" width="880">
 </div>
 
 <br />
@@ -52,11 +52,11 @@ This app features all the latest tools and practices in mobile development!
 
 <br />
 
-Step 1 - Access our application's node server folder with the command: `cd backend`;
+Step 1 - Access our application's node server folder with the command: `cd server`;
 
 Step 2 - Download the npm packages used in the project with the command: `npm` , if you prefer yarn execute `yarn`;
 
-Step 3 - Start the server with the command: `npx dev:server`, if you prefer yarn run `yarn dev:server`;
+Step 3 - Start the server with the command: `npm run dev`, if you prefer yarn run `yarn dev`;
 
 - Node Server is required for both the frontend and the mobile.
 - it is necessary to have a postgres database with the name `gobarber`.
@@ -68,7 +68,7 @@ Step 3 - Start the server with the command: `npx dev:server`, if you prefer yarn
 
 <br />
 
-Step 1 - Access our application's frontend folder with the command: `cd frontend`;
+Step 1 - Access our application's frontend folder with the command: `cd web`;
 
 Step 2 - Download the npm packages used in the project with the command: `npm` , if you prefer yarn execute `yarn`;
 
@@ -77,11 +77,14 @@ Step 3 - Start the application with the command: `npm run start`, if you prefer 
 <br />
 <br />
 
-<!-- **📱 Mobile (React Native)** ) -->
+**📱 Mobile (React Native)**
 
-[//]: # "<br />"
-[//]: # "Step 1 - Access our application's mobile folder with the command: `cd mobile`;"
-[//]: # "Step 2 - Download the npm packages used in the project with the command: `npm` , if you prefer yarn execute `yarn`;"
+"<br />"
+"Step 1 - Access our application's mobile folder with the command: `cd app`;"
+
+"Step 2 - Download the npm packages used in the project with the command: `npm` , if you prefer yarn execute `yarn`;"
+
+Step 3 - Start the application with the command: `npm run start`, if you prefer yarn run `yarn start`;
 
 <br />
 <br />
