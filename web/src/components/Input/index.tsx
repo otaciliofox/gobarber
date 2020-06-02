@@ -21,13 +21,21 @@ const Input: React.FC<InputProps> = ({ name, icon: Icon, ...rest }) => {
 
   const [isFocused, setIsFocused] = useState(false);
   const [isFilled, setIsFilled] = useState(false);
-  const { fieldName, defaultValue, error, registerField } = useField(name);
+  const {
+    fieldName,
+    defaultValue,
+    error,
+    registerField,
+    clearError,
+  } = useField(name);
 
   const handleInputFocus = useCallback(() => {
+    clearError();
     setIsFocused(true);
   }, []);
 
   const handleInputBlur = useCallback(() => {
+    clearError();
     setIsFocused(false);
 
     if (inputRef.current?.value) {
