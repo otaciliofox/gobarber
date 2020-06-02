@@ -79,12 +79,14 @@ Step 3 - Start the application with the command: `npm run start`, if you prefer 
 
 **📱 Mobile (React Native)**
 
-"<br />"
-"Step 1 - Access our application's mobile folder with the command: `cd app`;"
+<br />
+Step 1 - Access our application's mobile folder with the command: `cd app`;
 
-"Step 2 - Download the npm packages used in the project with the command: `npm` , if you prefer yarn execute `yarn`;"
+Step 2 - Download the npm packages used in the project with the command: `npm` , if you prefer yarn execute `yarn`;
 
-Step 3 - Start the application with the command: `npm run start`, if you prefer yarn run `yarn start`;
+Step 3 - Change `baseURL` in ./src/services/apiClient.ts, for the ip of your machine, this is important because the localhost would be the ip of the device or emulator and we need the ip of the server.;
+
+Step 4 - Start the application with the command: `npm run start`, if you prefer yarn run `yarn start`;
 
 <br />
 <br />
